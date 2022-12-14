@@ -1,0 +1,14 @@
+{
+  "_id": 1,
+  "app_name": "test",
+  "phone": "test",
+  "city": "test",
+  "region": "test",
+  "zip": "10000",
+  "address": "test",
+  "vat": 20,
+  "vat_number": "test",
+  "commission": 20.4,
+  "currency": "USD",
+  "logo": "assets/images/kanf-logo.png"
+}
